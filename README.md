@@ -2,6 +2,8 @@
 Luxury Hotel Analytics Dashboard ✨
 An executive-style interactive hotel analytics dashboard built using AI-assisted development, modern web design principles, and data storytelling techniques.
 
+<img width="400" height="215" alt="Hotel Dashboard using AI" src="https://github.com/user-attachments/assets/d8ae9657-7a69-4108-876e-776a508390e0" />
+
 
 <img width="1832" height="929" alt="image" src="https://github.com/user-attachments/assets/990f8d84-1a61-477d-9cf0-7da31dc496ae" />
 
